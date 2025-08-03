@@ -6,28 +6,27 @@ const siteConfig = {
             id: "epsilon-calcul",
             title: "ε epsilonCalcul",
             links: [
-                { name: "Calculatrice Scientifique", url: "https://www.desmos.com/scientific" },
-                { name: "WolframAlpha", url: "https://www.wolframalpha.com" },
-                { name: "GeoGebra", url: "https://www.geogebra.org" }
+                { name: "Instagram", url: "https://www.instagram.com/epsiloncalcul._" },
+                { name: "TikTok", url: "https://www.tiktok.com/@epsiloncalcul" },
+                { name: "Youtube", url: "https://www.youtube.com/@epsiloncalcul" }
             ]
         },
         {
             id: "phi-enseignement",
             title: "φ phiEnseignement", 
             links: [
-                { name: "Khan Academy", url: "https://www.khanacademy.org" },
-                { name: "Coursera", url: "https://www.coursera.org" }
+                { name: "Instagram", url: "https://www.instagram.com/phienseignement._" },
+                { name: "TikTok", url: "https://www.tiktok.com/@phienseignement" },
+                { name: "Youtube", url: "https://www.youtube.com/@phienseignement" }
             ]
         },
         {
             id: "psi-science",
             title: "ψ psiScience",
             links: [
-                { name: "PubMed", url: "https://pubmed.ncbi.nlm.nih.gov" },
-                { name: "arXiv", url: "https://arxiv.org" },
-                { name: "Nature", url: "https://www.nature.com" },
-                { name: "Science", url: "https://www.science.org" },
-                { name: "ResearchGate", url: "https://www.researchgate.net" }
+                { name: "Instagram", url: "https://www.instagram.com/psiscience._" },
+                { name: "TikTok", url: "https://www.tiktok.com/@psiscience" },
+                { name: "Youtube", url: "https://www.youtube.com/@psiscience" }
             ]
         },
         {
